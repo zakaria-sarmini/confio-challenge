@@ -8,7 +8,7 @@ Clone the Project, install the packages `npm install`, and then run `ng serve` i
 
 ## Notes
 
-The Application expects a local Cosmos-SDK blockchain running in a Docker container and exposed at http://localhost:1317, if this is not the case please change the API url under `src/enviroment/enviroment.ts`.
+The Application expects a local Cosmos-SDK blockchain(v0.23.1) running in a Docker container and exposed at http://localhost:1317, if this is not the case please change the API url under `src/enviroment/enviroment.ts`.
 
 ## Further help
 
